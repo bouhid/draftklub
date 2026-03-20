@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget --version)",
+      "Bash(git --version)",
+      "Bash(docker --version)",
+      "Bash(gcloud --version)",
+      "Bash(winget install:*)"
+    ]
+  }
+}
